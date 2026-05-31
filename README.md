@@ -33,3 +33,5 @@ Use Cases
 Home workouts with real-time feedback
 Fitness planning for students, professionals & beginners
 Great Final Year Project with AI + ML integration
+
+This is our final year project, and it includes all the trending technologies like AI and Deep Learning. For 1st, 2nd, and 3rd-year students, this can be a great reference model to showcase in your college and score full marks.
