@@ -18,3 +18,11 @@ MediaPipe
 OpenCV
 SQLite
 Groq API
+
+Project Structure
+core/
+detectors/
+ml_models/
+services/
+static/
+main.py
