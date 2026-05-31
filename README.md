@@ -17,7 +17,7 @@ Streamlit
 MediaPipe
 OpenCV
 SQLite
-Groq API
+Grok AI
 
 Project Structure
 core/
