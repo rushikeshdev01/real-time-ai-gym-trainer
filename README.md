@@ -2,6 +2,9 @@ AI Real-Time Gym Trainer
 
 A real-time AI-powered gym coaching application built using Python, Streamlit, MediaPipe, and SQLite.
 
+Overview
+
+AI Gym Trainer is an all-in-one smart fitness platform designed to revolutionize home and personal workouts using the power of Artificial Intelligence and Computer Vision. This intelligent system offers real-time monitoring of exercises, automated posture correction feedback, and advanced dietary analysis—making it a comprehensive virtual gym assistant.
 Whether you're a beginner looking for guidance, a student working on a final year project, or a fitness enthusiast aiming to optimize your training, this platform is built to help you achieve your goals with minimal equipment and maximum efficiency.
 
 Features
