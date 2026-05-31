@@ -26,3 +26,8 @@ ml_models/
 services/
 static/
 main.py
+
+Use Cases
+Home workouts with real-time feedback
+Fitness planning for students, professionals & beginners
+Great Final Year Project with AI + ML integration
