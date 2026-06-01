@@ -8,6 +8,7 @@ from services.ui.style_loader import load_css, inject_local_font, inject_webrtc_
 from services.persistence.exercise_repository import init_db
 from streamlit_webrtc import webrtc_streamer, WebRtcMode
 from services.vision.exercise_video_processor import VideoProcessorClass
+from services.tracking.metrics import sync_metrics_update
 
 
 def main():
@@ -170,7 +171,10 @@ def main():
             async_processing=True
         )
         
+        sync_metrics_update(context)
+        
         inject_webrtc_styles()
+        
     st.markdown("#### Workout History")
     
     
