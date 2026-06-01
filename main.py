@@ -5,6 +5,7 @@ from services.state.session_defaults import initial_session_defaults
 from services.config.workout_config import EXERCISE_OPTIONS
 from services.ui.style_loader import load_css, inject_local_font
 from services.persistence.exercise_repository import init_db
+from services.vision.exercise_video_processor import VideoProcessorClass
 
 
 def main():
