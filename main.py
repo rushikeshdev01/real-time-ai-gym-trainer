@@ -171,7 +171,7 @@ def main():
             async_processing=True
         )
         
-        sync_metrics_update(context)
+        sync_metrics_update(context) 
         
         inject_webrtc_styles()
         
