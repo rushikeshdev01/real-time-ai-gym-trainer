@@ -1,7 +1,8 @@
-import streamlit as st 
+import streamlit as st
+
 
 def initial_session_defaults():
-    defaults ={
+    defaults = {
         "reps": 0,
         "target_sets": 0,
         "reps_per_set": 0,
@@ -37,8 +38,8 @@ def initial_session_defaults():
         "back_arch_status": "N/A",
         "balance_status": "N/A",
     }
-    
+
     for key, value in defaults.items():
         if key not in st.session_state:
-            st.session_state[key]= value
+            st.session_state[key] = value
     
